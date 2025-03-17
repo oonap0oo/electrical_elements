@@ -7,6 +7,19 @@ test_elements.py
 pyhton code which uses elements.py for calculations including a graph using matplotlib:
 RLC_with_elements.py
 
+These Python class definitions represent basic electrical circuit elements such as Resistance, Capacitance, Inductance, Voltage and Current
+
+this module defines:
+
+class Electricalelement
+class Impedance(Electricalelement)
+class Resistance(Impedance)
+class Capacitance(Electricalelement)
+class Inductance(Electricalelement)
+class Voltage(Electricalelement)
+class Current(Electricalelement)
+
+
 Copyright 2025 Nap0
 
 This program is free software; you can redistribute it and/or modify
@@ -23,17 +36,5 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 MA 02110-1301, USA.
-
-Python class definitions which represent basic electrical circuit elements such as Resistance, Capacitance, Inductance, Voltage and Current
-
-this module defines:
-
-class Electricalelement
-class Impedance(Electricalelement)
-class Resistance(Impedance)
-class Capacitance(Electricalelement)
-class Inductance(Electricalelement)
-class Voltage(Electricalelement)
-class Current(Electricalelement)
 
 
