@@ -1,7 +1,9 @@
 module containing class defintions:
 elements.py
+
 python code running tests on the classes in elements.py:
 test_elements.py
+
 pyhton code which uses elements.py for calculations including a graph using matplotlib:
 RLC_with_elements.py
 
