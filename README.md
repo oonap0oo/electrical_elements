@@ -1,22 +1,32 @@
 module containing class defintions:
+
 elements.py
 
 python code running tests on the classes in elements.py:
+
 test_elements.py
 
 pyhton code which uses elements.py for calculations including a graph using matplotlib:
+
 RLC_with_elements.py
+
 
 These Python class definitions represent basic electrical circuit elements such as Resistance, Capacitance, Inductance, Voltage and Current
 
 this module defines:
 
 class Electricalelement
+
 class Impedance(Electricalelement)
+
 class Resistance(Impedance)
+
 class Capacitance(Electricalelement)
+
 class Inductance(Electricalelement)
+
 class Voltage(Electricalelement)
+
 class Current(Electricalelement)
 
 
