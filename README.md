@@ -1,4 +1,4 @@
-# elements.py
+## elements.py
 
 module containing class defintions.
 
@@ -20,21 +20,21 @@ this module defines:
 
 - class Current(Electricalelement)
 
-# test_elements.py
+## test_elements.py
 
 python code running tests on the classes in elements.py
 
-# RLC_with_elements.py
+## RLC_with_elements.py
 
 pyhton code which uses elements.py for calculations including a graph using matplotlib
 
-# sallen_key_with_elements_numpy.py
+## sallen_key_with_elements_numpy.py
 
 Calculating the transferfuction of a Sallen - Key VCVS using elements.py, numpy and matplotlib
 
 
 
-# Copyright 2025 Nap0
+## Copyright 2025 Nap0
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
