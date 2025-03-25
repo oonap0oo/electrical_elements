@@ -34,7 +34,7 @@ Calculating the transferfuction of a Sallen - Key VCVS using elements.py, numpy 
 
 
 
-Copyright 2025 Nap0
+# Copyright 2025 Nap0
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
