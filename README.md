@@ -1,33 +1,37 @@
-module containing class defintions:
+# elements.py
 
-elements.py
-
-python code running tests on the classes in elements.py:
-
-test_elements.py
-
-pyhton code which uses elements.py for calculations including a graph using matplotlib:
-
-RLC_with_elements.py
-
+module containing class defintions.
 
 These Python class definitions represent basic electrical circuit elements such as Resistance, Capacitance, Inductance, Voltage and Current
 
 this module defines:
 
-class Electricalelement
+- class Electricalelement
 
-class Impedance(Electricalelement)
+- class Impedance(Electricalelement)
 
-class Resistance(Impedance)
+- class Resistance(Impedance)
 
-class Capacitance(Electricalelement)
+- class Capacitance(Electricalelement)
 
-class Inductance(Electricalelement)
+- class Inductance(Electricalelement)
 
-class Voltage(Electricalelement)
+- class Voltage(Electricalelement)
 
-class Current(Electricalelement)
+- class Current(Electricalelement)
+
+# test_elements.py
+
+python code running tests on the classes in elements.py
+
+# RLC_with_elements.py
+
+pyhton code which uses elements.py for calculations including a graph using matplotlib
+
+# sallen_key_with_elements_numpy.py
+
+Calculating the transferfuction of a Sallen - Key VCVS using elements.py, numpy and matplotlib
+
 
 
 Copyright 2025 Nap0
